@@ -1,5 +1,7 @@
+## Hey what's up! 🙋‍♂️
+
 My name is Vinícius Souza Ferri and i'm studing Software Engineering.
-- 📚 I student of Universidade Católica de Santa Catarina
+- 📚 I'm majoring in Software Engineering at Universidade Católica de Santa Catarina, in Joinville.
 - 🌱 I’m currently learning: ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 ) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 ) ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
