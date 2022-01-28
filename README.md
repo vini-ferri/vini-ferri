@@ -12,7 +12,7 @@ My name is Vinícius Souza Ferri and i'm studing Software Engineering.
 ) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 )
 
-- 📫 How to reach me: https://www.linkedin.com/in/vinicius-ferri-058a301a4/
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ferri-058a301a4/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vini-ferri&theme=dark&show_icons=true%22/%3E" alt="ViniFerri" /></p>
 
